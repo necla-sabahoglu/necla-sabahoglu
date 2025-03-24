@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💻 About Me  
+👋 Hi, I'm Necla! I'm a passionate Software Developer specializing in .NET and SQL.  
+I enjoy building scalable applications and optimizing database structures.  
 
-<!--
-**necla-sabahoglu/necla-sabahoglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Skills & Technologies
+- **Backend:** .NET (C#), ASP.NET, SQL (MSSQL, Oracle)
+- **Frontend:** HTML, CSS, JavaScript, React
+- **Tools & Methodologies:** Docker, Git, Agile (Scrum, Kanban)
+- **Database Management:** MSSQL, Oracle, PL/SQL
 
-Here are some ideas to get you started:
+### 📌 Experience
+🔹 Software Specialist at Otokoc Automative.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔗 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/necla-sabahoglu/)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/necla-sabahoglu)
+<!-- 📫 How to reach me: neclasbhgl@gmail.com-->
+⭐️ **Check out my works below!**  
