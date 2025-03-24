@@ -3,10 +3,10 @@
 I enjoy building scalable applications and optimizing database structures.  
 
 ### 🚀 Skills & Technologies
-- **Backend:** .NET (C#), ASP.NET, SQL (MSSQL, Oracle)
+- **Backend:** .NET (C#), ASP.NET, SQL (MSSQL)
 - **Frontend:** HTML, CSS, JavaScript, React
 - **Tools & Methodologies:** Docker, Git, Agile (Scrum, Kanban)
-- **Database Management:** MSSQL, Oracle, PL/SQL
+- **Database Management:** TSQL, MSSQL, Oracle, PL/SQL
 
 ### 📌 Experience
 🔹 Software Specialist at Otokoc Automative.
